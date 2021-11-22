@@ -1,9 +1,9 @@
 # git_matters
 GitHub training repository
 
-# Friendly Collaboration Party 
+# GitHub training repository
 
-This repository is for planning a party to learn GitHub and more!
+This repository is to learn about GitHub and more!
 
 ## About
 This is some text about my project. It is interesting because it answers this question about the universe. 
